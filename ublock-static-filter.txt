@@ -1,0 +1,3 @@
+! 7/5/2019 https://www.inoreader.com
+www.inoreader.com##.sinner:style(display:none !important)
+www.inoreader.com##.reader_pane_sinner:style(padding-right: 0px !important)
